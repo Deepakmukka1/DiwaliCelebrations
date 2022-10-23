@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/DiwaliCelebrations/static/css/main.da898e7a.chunk.css",
-    "main.js": "/DiwaliCelebrations/static/js/main.ab355c60.chunk.js",
-    "main.js.map": "/DiwaliCelebrations/static/js/main.ab355c60.chunk.js.map",
+    "main.css": "/DiwaliCelebrations/static/css/main.ed543cf5.chunk.css",
+    "main.js": "/DiwaliCelebrations/static/js/main.303c83c6.chunk.js",
+    "main.js.map": "/DiwaliCelebrations/static/js/main.303c83c6.chunk.js.map",
     "runtime-main.js": "/DiwaliCelebrations/static/js/runtime-main.47181a4f.js",
     "runtime-main.js.map": "/DiwaliCelebrations/static/js/runtime-main.47181a4f.js.map",
     "static/js/2.b2056fc9.chunk.js": "/DiwaliCelebrations/static/js/2.b2056fc9.chunk.js",
     "static/js/2.b2056fc9.chunk.js.map": "/DiwaliCelebrations/static/js/2.b2056fc9.chunk.js.map",
     "index.html": "/DiwaliCelebrations/index.html",
-    "static/css/main.da898e7a.chunk.css.map": "/DiwaliCelebrations/static/css/main.da898e7a.chunk.css.map",
+    "static/css/main.ed543cf5.chunk.css.map": "/DiwaliCelebrations/static/css/main.ed543cf5.chunk.css.map",
     "static/js/2.b2056fc9.chunk.js.LICENSE.txt": "/DiwaliCelebrations/static/js/2.b2056fc9.chunk.js.LICENSE.txt",
     "static/media/3crackers.2a0311e2.svg": "/DiwaliCelebrations/static/media/3crackers.2a0311e2.svg",
     "static/media/4crackers.23b000b3.svg": "/DiwaliCelebrations/static/media/4crackers.23b000b3.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.47181a4f.js",
     "static/js/2.b2056fc9.chunk.js",
-    "static/css/main.da898e7a.chunk.css",
-    "static/js/main.ab355c60.chunk.js"
+    "static/css/main.ed543cf5.chunk.css",
+    "static/js/main.303c83c6.chunk.js"
   ]
 }
