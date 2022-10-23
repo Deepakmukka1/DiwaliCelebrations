@@ -15,12 +15,7 @@ module.exports = {
             // translate: "0 0",
             rotate: "5deg",
           },
-          "50%": {
-            // opacity: 0.5,
-            visibility: "visible",
-            rotate: "2deg",
         
-          },
           "100%": {
             // opacity: 1,
             bottom: "70rem",
@@ -29,33 +24,26 @@ module.exports = {
             rotate: "0deg",
           },
         },
-        moveleft: {
+        moveupfast: {
           "0%": {
-            // opacity: 0.4,
+          
             bottom: "3rem",
-            translate: "-250px 0",
-            rotate: "-15deg",
-
+            rotate: "5deg",
           },
-          "50%": {
-            // opacity: 0.5,
-            visibility: "visible",
-            rotate: "-28deg",
         
-          },
           "100%": {
-            // opacity: 1,
+           
             bottom: "70rem",
             visibility: "visible",
-            translate: "-600px 0",
-            rotate: "-30deg",
+          
+            rotate: "0deg",
           },
         },
       },
       animation: {
         wiggle: "wiggle 1s ease-in-out infinite",
         moveup: "2s moveup 1s ease-in 3",
-        moveleft: "1.5s moveleft 1s ease-in 3",
+        moveupfast: "0.5s moveupfast 1s ease-in 3",
       },
     },
   },

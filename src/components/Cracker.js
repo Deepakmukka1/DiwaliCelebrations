@@ -21,21 +21,21 @@ const Cracker = () => {
         alt="cracker"
         src={CrackerSVG1}
         ref={RightRocket}
-        className={`absolute bottom-4 left-4 h-52 w-52 text-white text-center animate-moveup invisible`}
+        className={`absolute bottom-4 left-4 h-24 w-24 md:h-52 md:w-52 text-white text-center animate-moveup invisible`}
       />}
 
      { animation && <img
         alt="cracker"
         src={CrackerSVG2}
         ref={RightRocket}
-        className={`absolute bottom-4 left-16 h-52 w-52 text-white text-center animate-moveup invisible`}
+        className={`absolute bottom-4 left-16 h-24 w-24 md:h-52 md:w-52 text-white text-center animate-moveupfast invisible`}
       />}
 
     {animation && <img
         alt="cracker"
         src={CrackerSVG1}
         ref={LeftRockets}
-        className={`absolute bottom-4 right-4 h-52 w-52 text-white text-center animate-moveup invisible`}
+        className={`absolute bottom-4 right-4 h-24 w-24 md:h-52 md:w-52 text-white text-center animate-moveup invisible`}
       />
     }
 
@@ -43,7 +43,7 @@ const Cracker = () => {
         alt="cracker"
         src={CrackerSVG2}
         ref={LeftRockets}
-        className={`absolute bottom-4 right-16 h-52 w-52 text-white text-center animate-moveup invisible`}
+        className={`absolute bottom-4 right-16 h-24 w-24 md:h-52 md:w-52 text-white text-center animate-moveupfast invisible`}
       />
     }
       
