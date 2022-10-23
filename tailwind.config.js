@@ -43,7 +43,7 @@ module.exports = {
       animation: {
         wiggle: "wiggle 1s ease-in-out infinite",
         moveup: "2s moveup 1s ease-in 3",
-        moveupfast: "0.5s moveupfast 1s ease-in 3",
+        moveupfast: "0.5s moveupfast 1s ease-in 6",
       },
     },
   },
