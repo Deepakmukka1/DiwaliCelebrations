@@ -1,6 +1,4 @@
-import Chakra from "./components/Chakra";
 import Cracker from "./components/Cracker";
-import DecorationLarge from './assets/DiwaLarge.svg'
 import DecorationSmall from './assets/DiwaSmall.svg'
 
 import ReactCanvasConfetti from "react-confetti";
@@ -35,7 +33,7 @@ function App() {
   return (
     <div className="flex justify-center flex-col w-full h-screen bg-gray-900">
       <Cracker isAnimated={isAnimated} />
-      <img src={DecorationSmall} className="h-20 w-20 md:h-32 md:w-32 absolute top-0 left-10" alt="DiwaSmall"/>
+      <img src={DecorationSmall} className="h-20 w-20 md:h-32 md:w-32 absolute top-0 left-10" alt="DiwaLarge"/>
       <img src={DecorationSmall} className="h-16 w-16 md:h-36 md:w-36 absolute top-0 right-10" alt="DiwaSmall"/>
 
       {confetti && (
