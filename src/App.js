@@ -43,7 +43,7 @@ function App() {
           opacity={0.6}
         />
       )}
-      <h3 className="text-yellow-400 font-semibold text-center pb-20 md:pb-4">
+      <h3 className="text-yellow-400 font-semibold text-center pb-12 md:pb-4">
       💛 From Mukka Deepak
       </h3>
     </div>

@@ -10,17 +10,15 @@ module.exports = {
         },
         moveup: {
           "0%": {
-            // opacity: 0.4,
+         
             bottom: "3rem",
-            // translate: "0 0",
             rotate: "5deg",
           },
         
           "100%": {
-            // opacity: 1,
+           
             bottom: "70rem",
             visibility: "visible",
-            // translate: "650px 650px",
             rotate: "0deg",
           },
         },
@@ -43,7 +41,7 @@ module.exports = {
       animation: {
         wiggle: "wiggle 1s ease-in-out infinite",
         moveup: "2s moveup 1s ease-in 3",
-        moveupfast: "0.5s moveupfast 1s ease-in 6",
+        moveupfast: "0.5s moveupfast 1s ease-in 7",
       },
     },
   },
