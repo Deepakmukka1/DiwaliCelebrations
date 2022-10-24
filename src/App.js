@@ -3,6 +3,7 @@ import DecorationSmall from './assets/DiwaSmall.svg'
 
 import ReactCanvasConfetti from "react-confetti";
 import { useEffect, useState } from "react";
+import Chakra from "./components/Chakra";
 
 function App() {
   const [confetti, setConfetti] = useState(false);
@@ -43,6 +44,8 @@ function App() {
           opacity={0.6}
         />
       )}
+
+      <Chakra/>
       <h3 className="text-yellow-400 font-semibold text-center pb-14 md:pb-4">
       💛 From Mukka Deepak
       </h3>
